@@ -1,9 +1,6 @@
 #include<stdio.h>
 
-void totalmax ()
-{
-    
-}
+
 
 int main()
 {
